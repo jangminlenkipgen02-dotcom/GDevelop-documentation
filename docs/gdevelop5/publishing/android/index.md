@@ -1,4 +1,4 @@
----
+Battle royale---
 title: Publish your game to Android
 ---
 # Publish your game to Android
